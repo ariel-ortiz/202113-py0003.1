@@ -16,6 +16,6 @@ Los archivos se pueden consultar directamente en este mismo sitio, o se puede us
 +    
 En dicho directorio encontrás todos los archivos fuente del proyecto.
     
-3. Cada vez que el profesor realice modificaciones a archivos existentes o agregue archivos nuevos, será necesario hacer un *pull* al repositorio. En la terminal y desde el directorio `tc1001s` teclear: 
+3. Cada vez que el profesor realice modificaciones a archivos existentes o agregue archivos nuevos, será necesario hacer un *pull* al repositorio. En la terminal y desde el directorio `semana_i_2021_cert_python` teclear: 
     
     git pull
